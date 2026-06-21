@@ -48,7 +48,6 @@ Stock_Prediction/
 ├── price.csv
 ├── predictions.csv
 ├── README.md
-├── requirements.txt
 └── .gitignore
 ```
 
