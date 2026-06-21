@@ -101,30 +101,6 @@ A rolling window of previous days is used to predict the next day's closing pric
 
 ---
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/sandradileep3009/Stock_Prediction.git
-cd Stock_Prediction
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## Running the Project
-
-```bash
-python stock_code.py
-```
-
----
 
 ## Results
 
